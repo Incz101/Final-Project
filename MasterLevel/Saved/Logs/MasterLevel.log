@@ -1900,3 +1900,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.11-06.21.38:796][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.11.11-06.21.39:870][173]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository
 [2019.11.11-06.21.39:974][173]EditorErrors: Warning: No assets to check in!
+[2019.11.11-06.24.54:036][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-06.27.52:139][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-06.27.53:099][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-06.27.54:024][807]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.11-06.27.54:046][807]LogHoudiniEngine: Error: Hapi failed: 
+[2019.11.11-06.30.11:567][163]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.11-06.30.11:571][163]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.11-06.30.13:660][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-06.30.13:827][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-06.30.13:865][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.11.11-06.30.14:039][423]LogSavePackage: Moving '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Saved/Particle_Test16C8C92E4D5EEE356DD1E99086AD63E8.tmp' to '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Content/SilentForest/Particles/Particle_Test.umap'
+[2019.11.11-06.30.14:281][423]LogSavePackage: Moving '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Saved/Particle_Test_BuiltData70256F044EE6B34A6353BA8C174B72C7.tmp' to '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Content/SilentForest/Particles/Particle_Test_BuiltData.uasset'
+[2019.11.11-06.30.17:738][833]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository
+[2019.11.11-06.30.33:909][833]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.11-06.30.34:316][833]LogSourceControl: commit successful: [FX e5a2290] Edited unused Inputs and Interactions
+[2019.11.11-06.30.34:393][833]SourceControl: [FX e5a2290] Edited unused Inputs and Interactions
+[2019.11.11-06.30.34:393][833]SourceControl:  3 files changed, 50 insertions(+), 57 deletions(-)
+[2019.11.11-06.30.34:393][833]SourceControl:  create mode 100644 MasterLevel/Content/SilentForest/Particles/Particle_Test.umap
+[2019.11.11-06.30.34:397][833]SourceControl: Commited [FX e5a2290] Edited unused Inputs and Interactions.
