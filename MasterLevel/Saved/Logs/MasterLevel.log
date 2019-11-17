@@ -28979,3 +28979,37 @@ Make sure 'HorrorEngineCharacter_C' has been compiled for  Take Damage
 [2019.11.17-20.30.57:116][319]LogSavePackage: Moving '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Saved/AITest_Auto135897F654644E0FA810AB9B421ADBF0C.tmp' to '../../../../Github_Reps/SilentForest/Final-Project/MasterLevel/Saved/Autosaves/Game/SilentForest/Levels/AITest_Auto1.umap'
 [2019.11.17-20.30.57:131][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SilentForest/Levels/AITest' took 0.471
 [2019.11.17-20.30.57:131][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.471
+[2019.11.17-20.31.35:222][545]LogSlate: Window 'AIRobot' being destroyed
+[2019.11.17-20.31.35:226][545]LogSlate: Window 'AIRobot' being destroyed
+[2019.11.17-20.32.12:178][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.17-20.32.17:092][943]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.17-20.32.17:320][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.17-20.32.17:366][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.17-20.32.17:401][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.17-20.32.17:439][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.17-20.32.17:475][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.17-20.32.17:509][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.17-20.32.17:548][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.17-20.32.17:588][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.17-20.32.17:626][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.17-20.32.17:784][943]SourceControl: Error: Updated 0 paths from the index
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_boolean.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_calculate_occlusion.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_curve_instancer.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_delete_small_parts.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_polyreduce.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_set_pivot.uasset'
+[2019.11.17-20.32.17:901][943]SourceControl: rm 'MasterLevel/Content/HoudiniEngine/Tools/Default/he_surface_instancer.uasset'
+[2019.11.17-20.32.29:623][285]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository
+[2019.11.17-20.32.48:034][285]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.17-20.32.48:416][285]LogSourceControl: commit successful: [master 1bc3053] Removed Houdini Engine Assets
+[2019.11.17-20.32.48:460][285]SourceControl: [master 1bc3053] Removed Houdini Engine Assets
+[2019.11.17-20.32.48:460][285]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_boolean.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_calculate_occlusion.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_curve_instancer.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_delete_small_parts.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_polyreduce.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_set_pivot.uasset
+[2019.11.17-20.32.48:460][285]SourceControl:  delete mode 100644 MasterLevel/Content/HoudiniEngine/Tools/Default/he_surface_instancer.uasset
+[2019.11.17-20.32.48:464][285]SourceControl: Commited [master 1bc3053] Removed Houdini Engine Assets.
